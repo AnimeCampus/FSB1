@@ -25,7 +25,6 @@ class Data:
   ├ /speedtest - To test the bot server speed
   └ /broadcast - To send a broadcast message to the bot user
   
- 👨‍💻 Developed by </b><a href='https://t.me/Campus_Bot_Updates'>Anime Campus</a>
 """
 
     close = [
@@ -47,13 +46,8 @@ class Data:
     ]
 
     ABOUT = """
-<b>About this Bot:
-
- @Anime_Campus_Bot is a Telegram Bot for storing posts or files that can be accessed via a special link.
-
-  • Creator: @MH17_KUNAL
-  • Framework: Pyrograms
-  • Channel :@Campus_Bot_Updates
-
- 👨‍💻 Developed by @Anime_Campus
+<b>○ Creator : SECRET
+○ Language : Python3
+○ Library : Pyrogram asyncio 2.0.106
+           >>Thanks<<
 """
